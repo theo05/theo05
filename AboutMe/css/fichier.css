@@ -1,0 +1,102 @@
+body{
+  
+    background-color: antiquewhite;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 2%;
+    margin-top: 0px
+
+}
+div{
+    background-color:;
+
+    box-sizing: border-box;
+    place-content: center;
+}
+.container{
+    display: flex;
+    
+    justify-content: space-evenly;
+    align-content: flex-start;
+}
+.composant{
+    width: 40%;
+}
+#ito{
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 100%;
+    width: 150px;
+    height: 180px;
+}
+table{
+    width: 100%;
+    padding-right: 4px;
+}
+#nom{
+    padding-left: 15%;
+}
+.logo{
+    width: 50px;
+    border-radius: 10px;
+}
+#contact{
+    padding-left: 10%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.infoContact{
+    padding-bottom: 14%;
+}
+h1{
+    text-decoration: underline;
+}
+p{
+    padding-left: 10px;
+}
+h1{
+    font-style: italic;
+}
+h3{
+    font-style: italic;
+}
+li{
+    padding-left: 10%;
+    padding-top: 15px;
+    padding-bottom: 14px;
+}
+.web{
+    padding-left: 50px;
+    display: flex
+}
+.content2{
+    width: 35%;
+}
+.logoweb{
+    width: 200px;
+}
+i{
+    width: 30px;
+}
+.divers{
+    font-size: 20px;
+}
+#propo{
+    font-size: 21px;
+}
+.iii{
+    background-color: white;
+    margin-left: 3%;
+    
+    padding-left: 10%;
+    border-radius: 10px;
+}
+#eto{
+    padding-left: 35%;
+}
+.all{
+    padding-left: 4%;
+}
+.left{
+    margin-top: 50px;
+}
